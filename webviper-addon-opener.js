@@ -1,15 +1,11 @@
-//
-// This positions a extension pop up window in the current screen and browser window
 // -----------------------------------------------------------------------------------------
 // Globals
 // -----------------------------------------------------------------------------------------
 const useChrome = typeof (browser) === 'undefined';
 const windowData = {
   type: 'panel',
-  allowScriptsToClose: true,
   height: 514,
-  width: 634,
-  titlePreface: 'webViper '
+  width: 634
 };
 
 const getInfoParams = {
