@@ -1,2 +1,2 @@
 # snippets
-Some random things, do not expect much
+Some random things
